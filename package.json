@@ -1,0 +1,27 @@
+{
+  "name": "exists-on-npm",
+  "version": "1.0.0",
+  "description": "Create a promise for whether an npm module exists",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/voltrevo/exists-on-npm.git"
+  },
+  "keywords": [
+    "exists",
+    "on",
+    "npm"
+  ],
+  "author": "Andrew Morris",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/voltrevo/exists-on-npm/issues"
+  },
+  "homepage": "https://github.com/voltrevo/exists-on-npm#readme",
+  "dependencies": {
+    "npm": "^3.3.3"
+  }
+}
